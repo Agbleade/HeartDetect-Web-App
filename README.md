@@ -20,7 +20,9 @@ Death event (Boolean): which is the predictor or target variable.
 After data cleaning, visualization and exploratory analysis to prepare the dataset, 4 key features were selected and they are Age, Serum Creatinine, Ejection Fraction and Serum Sodium, were selected for model development. 3 classification machine learning algorithms: Logistic Regression, Support Vector Machine and Random Forest Classifier were trained with the dataset and Random Forest was selected due to its better evaluation performance in comparison to the rest with an accuracy of about 78%.
 
 The Heart Detect web app is therefore a machine learning web application model that uses Random Forest classification algorithm to predict the likelihood of survival for heart failure patients using data from age, serum creatinine levels, ejection fraction and serum sodium levels.
-                                                                                                                                                                                                                                                                                                                                                              How to Get the App
+
+
+                                                                                                                                                                                                                                                                                                                                                            -------  How to Get the App
   1. Download the zipped folder of HeartDetect and extract the folder
   2. Open command prompt on your computer and go to the directory of the heartdetect folder 
   3. Install all the needed requirements for this web app using (pip install -r requirements txt) and wait for all the requirements to be downloaded onto your computer 
